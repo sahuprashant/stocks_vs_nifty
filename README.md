@@ -1,2 +1,2 @@
-# stocks_vs_nifty
- Stock Portfolio Analyzer
+# Stock Portfolio Analyzer
+ Analyze and compare portfolio returns against different benchmarks
